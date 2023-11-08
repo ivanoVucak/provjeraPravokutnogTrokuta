@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeraPravokutnogTrokuta\obj\Debug\provjeraPravokutnogTrokuta.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeraPravokutnogTrokuta\obj\Debug\provjeraPravokutnogTrokuta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeraPravokutnogTrokuta\obj\Debug\provjeraPravokutnogTrokuta.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeraPravokutnogTrokuta\bin\Debug\provjeraPravokutnogTrokuta.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeraPravokutnogTrokuta\bin\Debug\provjeraPravokutnogTrokuta.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeraPravokutnogTrokuta\bin\Debug\provjeraPravokutnogTrokuta.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeraPravokutnogTrokuta\obj\Debug\provjeraPravokutnogTrokuta.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeraPravokutnogTrokuta\obj\Debug\provjeraPravokutnogTrokuta.pdb
